@@ -10,4 +10,6 @@ After a bit of googling I found out that it was problem with cache of the browse
 After saving this Batch file and then running it with <b>Administrator Rights</b> one can clear <br>
 the Google-Chrome cache and continue with the awesomeness of the omnibox :)<br>
 
+<b>Be Sure to replace %username% with your system-username</b><br>
+
 <b>Happy Browsing :)</b>
